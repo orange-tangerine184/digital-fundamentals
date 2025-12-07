@@ -8,6 +8,6 @@ do
       if [[ $email =~ spbstu.ru$ ]]
          then
          echo -e "Меня зовут ${name}, мой возраст ${age}, моя почта ${email}"
-         fi
+      fi
     done
 done
